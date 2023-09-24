@@ -1,2 +1,3 @@
 # roopproject
-roop projects
+This is actually my first project repository
+
